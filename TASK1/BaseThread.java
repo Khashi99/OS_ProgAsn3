@@ -1,7 +1,6 @@
 package OS_PROGASN3.TASK1;
 
 import java.util.Random;
-//Hi
 
 /**
  * Class BaseThread
