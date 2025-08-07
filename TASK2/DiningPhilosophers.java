@@ -1,4 +1,5 @@
 package OS_PROGASN3.TASK2;
+import java.io.*;
 
 /**
  * Class DiningPhilosophers
@@ -41,6 +42,15 @@ public class DiningPhilosophers
 	 */
 	public static void main(String[] argv)
 	{
+		try{
+			PrintStream out = new PrintStream(new FileOutputStream("Task2.txt"));
+            System.setOut(out);
+            System.setErr(out);
+		}
+		catch(FileNotFoundException e){
+			e.printStackTrace();
+		}
+
 		try
 		{
 			/*

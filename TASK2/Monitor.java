@@ -25,11 +25,9 @@ public class Monitor
 	public Monitor(int piNumberOfPhilosophers)
 	{
 		// TODO: set appropriate number of chopsticks based on the # of philosophers
-		System.out.println("The number of philosopher is " + piNumberOfPhilosophers);
 		chopsticks = piNumberOfPhilosophers;
 		NoOfPhilosophers = piNumberOfPhilosophers;
 		this.state = new PhilosopherState[piNumberOfPhilosophers];
-		System.out.println("The number of elements is " + state.length);
 		for (int i = 0; i < piNumberOfPhilosophers; ++i){
 			state[i] = PhilosopherState.THINKING;
 		}
@@ -38,8 +36,8 @@ public class Monitor
 
 	public synchronized void PrintState (){
 		System.out.println("-----------------");
-		for (PhilosopherState each_state: this.state){
-			System.out.println(each_state);
+		for (int i = 0; i < 4 ; ++i){
+			System.out.println("Philospher " + (i + 1) + ": "+ this.state[i]);
 		}
 		System.out.println("-----------------");
 	}
@@ -55,9 +53,13 @@ public class Monitor
 	 * Else forces the philosopher to wait()
 	 */
 	public synchronized void pickUp(final int piTID)
-	{	state[piTID] = PhilosopherState.HUNGRY;
-		PrintState();
+	{	
+		// if(state[piTID]!=PhilosopherState.TALKING && state[piTID]!=PhilosopherState.EATING){
+		// 	state[piTID] = PhilosopherState.HUNGRY;
+		// }
 
+		state[piTID] = PhilosopherState.HUNGRY;
+		PrintState();
 		if(test(piTID)) 
 		{	
 			// System.out.println("Before Eating");
@@ -76,7 +78,7 @@ public class Monitor
 		}
 	}
 
-	public boolean test(final int piTID){
+	public synchronized boolean test(final int piTID){
 		return (
 		state[(piTID + NoOfPhilosophers - 1)%NoOfPhilosophers] != PhilosopherState.EATING && 	//Check if left neighbour eating
 		state[(piTID + 1)%NoOfPhilosophers] != PhilosopherState.EATING && 						//Check if right neighbour eating 
@@ -103,10 +105,16 @@ public class Monitor
 	public synchronized void requestTalk()
 	{	
 		int TID = ((Philosopher)Thread.currentThread()).getTID() - 1;
-
+		
+		System.out.println("Philosopher " + (TID + 1) + " has requested to talk");
+		PrintState();
 		if(state[TID]!=PhilosopherState.EATING && NoOneTalking()){
+		PrintState();
+		System.out.println("Philosopher " + (TID + 1) + " has been granted to talk");
 		state[TID] = PhilosopherState.TALKING;
+		PrintState();
 		} else {
+			System.out.println("Philosopher " + (TID + 1) + " has been rejected to talk");
 			try{
 				wait();
 			} catch (InterruptedException e){
@@ -134,6 +142,7 @@ public class Monitor
 
 		if(state[TID]!=PhilosopherState.TALKING){
 		state[TID] = PhilosopherState.THINKING;
+		System.out.println("Philosopher " + (TID + 1) + " has been ended talking");
 		}
 		notifyAll();
 	}
