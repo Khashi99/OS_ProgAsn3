@@ -1,9 +1,9 @@
-package OS_PROGASN3.TASK1;
+package OS_PROGASN3.TASK4;
 
-import java.util.Random;
+import java.util.Random; 
 
 /**
- * Class BaseThread
+ * Class BaseThread 
  * Simply one customized base class for many of our own threads.
  *
  * An attempt to maintain an automatic unique TID (thread ID)

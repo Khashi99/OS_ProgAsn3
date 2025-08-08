@@ -1,7 +1,9 @@
-import common.BaseThread;
+package OS_PROGASN3.TASK4;
+
+// import OS_PROGASN3.TASK1.BaseThread;
 
 /**
- * Class Philosopher.
+ * Class Philosopher. 
  * Outlines main subrutines of our virtual philosopher.
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
@@ -12,7 +14,7 @@ public class Philosopher extends BaseThread
 	 * Max time an action can take (in milliseconds)
 	 */
 	public static final long TIME_TO_WASTE = 1000;
-
+	public static final long Max_TALK_TIME = 1;
 	/**
 	 * The act of eating.
 	 * - Print the fact that a given phil (their TID) has started eating.
@@ -26,7 +28,10 @@ public class Philosopher extends BaseThread
 		try
 		{
 			// ...
+			System.out.println(iTID + " has started eating");
 			sleep((long)(Math.random() * TIME_TO_WASTE));
+			super.randomYield();
+			System.out.println(iTID + " has done eating");
 			// ...
 		}
 		catch(InterruptedException e)
@@ -47,11 +52,26 @@ public class Philosopher extends BaseThread
 	 */
 	public void think()
 	{
-		// ...
+			try
+		{
+			// ...
+			System.out.println(iTID + " has started thinking");
+			super.randomYield();
+			sleep((long)(Math.random() * TIME_TO_WASTE));
+			super.randomYield();
+			System.out.println(iTID + " has done thinking");
+			// ...
+		}
+		catch(InterruptedException e)
+		{
+			System.err.println("Philosopher.think():");
+			DiningPhilosophers.reportException(e);
+			System.exit(1);
+		}
 	}
 
 	/**
-	 * The act of talking.
+	 * The act of talking. 
 	 * - Print the fact that a given phil (their TID) has started talking.
 	 * - yield
 	 * - Say something brilliant at random
@@ -60,43 +80,55 @@ public class Philosopher extends BaseThread
 	 */
 	public void talk()
 	{
-		// ...
+		// try
+		// {
+			// ...
+			System.out.println(iTID + " has started talking");
 
-		saySomething();
-
-		// ...
+			long startTime = System.currentTimeMillis();
+			while((System.currentTimeMillis() - startTime) < Max_TALK_TIME){
+			saySomething();
+			}
+			super.randomYield();
+			System.out.println(iTID + " has done talking");
+			super.randomYield();
+		// 	// ...
+		// }
+		// catch(InterruptedException e)
+		// {
+		// 	System.err.println("Philosopher.eat():");
+		// 	DiningPhilosophers.reportException(e);
+		// 	System.exit(1);
+		// }
 	}
 
 	/**
 	 * No, this is not the act of running, just the overridden Thread.run()
 	 */
-	public void run()
-	{
-		for(int i = 0; i < DiningPhilosophers.DINING_STEPS; i++)
-		{
-			DiningPhilosophers.soMonitor.pickUp(getTID());
+	@Override
+	public void run() {
+		while (true) {
+			try {
+				// attempt to pick up chopsticks
+				DiningPhilosophers.soMonitor.pickUp(getTID() - 1);
 
-			eat();
+				eat();
 
-			DiningPhilosophers.soMonitor.putDown(getTID());
+				// put them down afterward
+				DiningPhilosophers.soMonitor.putDown(getTID() - 1);
 
-			think();
-
-			/*
-			 * TODO:
-			 * A decision is made at random whether this particular
-			 * philosopher is about to say something terribly useful.
-			 */
-			if(true == false)
-			{
-				// Some monitor ops down here...
-				talk();
-				// ...
+				// continue with thinking/talking…
+				think();
+				// …
 			}
-
-			Thread.yield();
+			catch (InterruptedException e) {
+				// Restore the interrupt status and exit loop to end thread
+				Thread.currentThread().interrupt();
+				break;
+			}
 		}
-	} // run()
+	}
+
 
 	/**
 	 * Prints out a phrase from the array of phrases at random.

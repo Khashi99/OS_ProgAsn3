@@ -1,7 +1,9 @@
-package OS_PROGASN3.TASK1;
+package OS_PROGASN3.TASK4;
+import java.io.*;
+import java.util.Scanner;
 
 /**
- * Class DiningPhilosophers
+ * Class DiningPhilosophers 
  * The main starter.
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
@@ -41,6 +43,15 @@ public class DiningPhilosophers
 	 */
 	public static void main(String[] argv)
 	{
+		try{
+			PrintStream out = new PrintStream(new FileOutputStream("Task4.txt"));
+            System.setOut(out);
+            System.setErr(out);
+		}
+		catch(FileNotFoundException e){
+			e.printStackTrace();
+		}
+
 		try
 		{
 			/*
@@ -49,6 +60,23 @@ public class DiningPhilosophers
 			 * or the default if no arguments supplied.
 			 */
 			int iPhilosophers = DEFAULT_NUMBER_OF_PHILOSOPHERS;
+
+			// add logic here to ask for the number of philosophers from user
+			if (argv.length > 0) {
+				try { iPhilosophers = Integer.parseInt(argv[0]); }
+				catch (NumberFormatException e) {
+				System.err.println("Bad arg, using default " + DEFAULT_NUMBER_OF_PHILOSOPHERS);
+				}
+			} else {
+				// No command-line arg → interactive
+				Scanner scan = new Scanner(System.in);
+				System.out.print("Enter number of philosophers: ");
+				if (scan.hasNextInt()) {
+				iPhilosophers = scan.nextInt();
+				}
+				scan.close();
+			}
+
 
 			// Make the monitor aware of how many philosophers there are
 			soMonitor = new Monitor(iPhilosophers);
