@@ -3,7 +3,7 @@ package OS_PROGASN3.TASK3;
 // import OS_PROGASN3.TASK1.BaseThread;
 
 /**
- * Class Philosopher.
+ * Class Philosopher. 
  * Outlines main subrutines of our virtual philosopher.
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
@@ -105,35 +105,30 @@ public class Philosopher extends BaseThread
 	/**
 	 * No, this is not the act of running, just the overridden Thread.run()
 	 */
-	public void run()
-	{
-		for(int i = 0; i < DiningPhilosophers.DINING_STEPS; i++)
-		{
-			DiningPhilosophers.soMonitor.pickUp(getTID()-1);
+	@Override
+	public void run() {
+		while (true) {
+			try {
+				// attempt to pick up chopsticks
+				DiningPhilosophers.soMonitor.pickUp(getTID() - 1);
 
-			eat();
+				eat();
 
-			DiningPhilosophers.soMonitor.putDown(getTID()-1);
+				// put them down afterward
+				DiningPhilosophers.soMonitor.putDown(getTID() - 1);
 
-			think();
-
-			/*
-			 * TODO:
-			 * A decision is made at random whether this particular
-			 * philosopher is about to say something terribly useful.
-			 */
-			if(Math.random()<0.5)
-			{
-				// Some monitor ops down here...
-				DiningPhilosophers.soMonitor.requestTalk();
-				talk();
-				DiningPhilosophers.soMonitor.endTalk();
-				// ...
+				// continue with thinking/talking…
+				think();
+				// …
 			}
-
-			Thread.yield();
+			catch (InterruptedException e) {
+				// Restore the interrupt status and exit loop to end thread
+				Thread.currentThread().interrupt();
+				break;
+			}
 		}
-	} // run()
+	}
+
 
 	/**
 	 * Prints out a phrase from the array of phrases at random.
