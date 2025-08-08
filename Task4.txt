@@ -1,0 +1,4161 @@
+Enter number of philosophers: -----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+4 has started eating
+8 philosopher(s) came in for a dinner.
+1 has started eating
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+2 has started eating
+1 has started thinking
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+5 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+5 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+6 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+5 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+6 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+6 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+2 has started thinking
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+6 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+5 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+5 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+5 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+4 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+1 has started thinking
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started eating
+4 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+5 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+5 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+6 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has started eating
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+6 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+6 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+5 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+6 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has started thinking
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+1 has started eating
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+5 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+5 has started thinking
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+5 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started thinking
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has started eating
+5 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has started eating
+5 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+5 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+5 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+5 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+5 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+6 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+5 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+6 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+6 has started thinking
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+6 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+4 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+5 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+5 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+5 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+3 has started thinking
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+5 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+5 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+6 has started eating
+6 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+6 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+7 has started eating
+7 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+7 has started thinking
+7 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+7 has started eating
+6 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+7 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+7 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+6 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+8 has started eating
+6 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+6 has started thinking
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started eating
+5 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+7 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+8 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+8 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has started eating
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+6 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+8 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started eating
+5 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+6 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+5 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+6 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+6 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+6 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started eating
+4 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+3 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started thinking
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started eating
+5 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+6 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+5 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+6 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+6 has started thinking
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+6 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has started thinking
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+2 has started eating
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+2 has started thinking
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+5 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+5 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+5 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has started thinking
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started eating
+2 has started thinking
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+4 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+5 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+5 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+5 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+2 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has started eating
+4 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+5 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+5 has started thinking
+5 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+4 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+5 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+5 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+6 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+6 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+6 has started thinking
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
+1 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has started eating
+6 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+6 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has started thinking
+5 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+6 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+6 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+5 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+7 has started eating
+4 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+5 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+5 has started thinking
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+7 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+7 has started thinking
+7 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+4 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+6 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+5 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started eating
+1 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+3 has done thinking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
