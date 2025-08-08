@@ -1,5 +1,5 @@
 package OS_PROGASN3.TASK2;
-
+//Comment
 /**
  * Class Monitor
  * To synchronize dining philosophers.
