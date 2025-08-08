@@ -2,7 +2,7 @@ package OS_PROGASN3.TASK3;
 import java.io.*;
 
 /**
- * Class DiningPhilosophers
+ * Class DiningPhilosophers 
  * The main starter.
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
@@ -43,7 +43,7 @@ public class DiningPhilosophers
 	public static void main(String[] argv)
 	{
 		try{
-			PrintStream out = new PrintStream(new FileOutputStream("Task2.txt"));
+			PrintStream out = new PrintStream(new FileOutputStream("Task3.txt"));
             System.setOut(out);
             System.setErr(out);
 		}
