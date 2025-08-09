@@ -55,7 +55,7 @@ public class Philosopher extends BaseThread
 			try
 		{
 			// ...
-			System.out.println(iTID + " has started thinking");
+			System.out.println(iTID + " has started thinking"); //hi
 			super.randomYield();
 			sleep((long)(Math.random() * TIME_TO_WASTE));
 			super.randomYield();
