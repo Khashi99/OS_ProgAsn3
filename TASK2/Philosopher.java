@@ -14,7 +14,7 @@ public class Philosopher extends BaseThread
 	 * Max time an action can take (in milliseconds)
 	 */
 	public static final long TIME_TO_WASTE = 1000;
-	public static final long Max_TALK_TIME = 1;
+	public static final long Max_TALK_TIME = 10;
 	/**
 	 * The act of eating.
 	 * - Print the fact that a given phil (their TID) has started eating.
@@ -86,7 +86,7 @@ public class Philosopher extends BaseThread
 			System.out.println(iTID + " has started talking");
 
 			long startTime = System.currentTimeMillis();
-			while((System.currentTimeMillis() - startTime) < Max_TALK_TIME){
+			while( (System.currentTimeMillis() - startTime) < Max_TALK_TIME){
 			saySomething();
 			}
 			super.randomYield();
