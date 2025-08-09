@@ -1,4 +1,5 @@
-Enter number of philosophers: -----------------
+No user input; default number of Philosophers used
+-----------------
 Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: THINKING
@@ -25,202 +26,10 @@ Philospher 4: HUNGRY
 -----------------
 Philospher 1: EATING
 Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-4 has started eating
-8 philosopher(s) came in for a dinner.
-1 has started eating
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-2 has started eating
-1 has started thinking
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-5 has started eating
-5 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-5 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-6 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-1 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-3 has started thinking
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-5 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-6 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-6 has started thinking
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
 Philospher 3: HUNGRY
 Philospher 4: HUNGRY
 -----------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-2 has started thinking
-Philospher 4: HUNGRY
------------------
+4 philosopher(s) came in for a dinner.
 1 has started eating
 -----------------
 Philospher 1: EATING
@@ -229,31 +38,60 @@ Philospher 3: EATING
 Philospher 4: HUNGRY
 -----------------
 3 has started eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
 3 has done eating
 -----------------
 Philospher 1: EATING
-Philospher 2: THINKING
+Philospher 2: HUNGRY
 Philospher 3: THINKING
 Philospher 4: HUNGRY
 -----------------
 3 has started thinking
+1 has done eating
 -----------------
-Philospher 1: EATING
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
 4 has started eating
-6 has done thinking
+1 has done thinking
 -----------------
-Philospher 1: EATING
+Philospher 1: HUNGRY
 Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
 4 has done eating
 -----------------
-Philospher 1: EATING
+Philospher 1: HUNGRY
 Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: THINKING
@@ -265,512 +103,6 @@ Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
-5 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-5 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-5 has started thinking
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-5 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-4 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
-4 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-1 has started thinking
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-2 has started eating
-4 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started thinking
-5 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-5 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-6 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-1 has started eating
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-6 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-6 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-5 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-6 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started thinking
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has started thinking
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-2 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
 1 has started eating
 3 has done thinking
 -----------------
@@ -786,336 +118,6 @@ Philospher 3: EATING
 Philospher 4: THINKING
 -----------------
 3 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-1 has started thinking
-4 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-5 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-5 has started thinking
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
-5 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started thinking
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started thinking
-3 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-1 has started eating
-5 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-3 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-1 has started eating
-5 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-5 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
-5 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-5 has started eating
 4 has done thinking
 -----------------
 Philospher 1: EATING
@@ -1130,22 +132,254 @@ Philospher 2: HUNGRY
 Philospher 3: EATING
 Philospher 4: HUNGRY
 -----------------
-5 has done eating
+3 has done eating
 -----------------
 Philospher 1: EATING
 Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+3 has done thinking
+Philosopher 3 has requested to talk
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+Philosopher 3 has been granted to talk
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: TALKING
+Philospher 4: HUNGRY
+-----------------
+3 has started talking
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: My number is 3
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+3 has done talking
+Philosopher 3 has been ended talking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
 Philospher 3: EATING
 Philospher 4: HUNGRY
 -----------------
-5 has started thinking
-1 has done eating
+3 has started eating
+2 has done thinking
+Philosopher 2 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+Philosopher 2 has been granted to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: TALKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+2 has started talking
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: My number is 2
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: My number is 2
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: My number is 2
+Philosopher 2 says: My number is 2
+Philosopher 2 says: My number is 2
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: My number is 2
+Philosopher 2 says: My number is 2
+Philosopher 2 says: My number is 2
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: My number is 2
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: My number is 2
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: My number is 2
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: My number is 2
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: My number is 2
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: My number is 2
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+2 has done talking
+Philosopher 2 has been ended talking
 -----------------
 Philospher 1: THINKING
 Philospher 2: HUNGRY
 Philospher 3: EATING
 Philospher 4: HUNGRY
 -----------------
-1 has started thinking
 3 has done eating
 -----------------
 Philospher 1: THINKING
@@ -1168,28 +402,105 @@ Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
 4 has started eating
+1 has done thinking
 -----------------
-Philospher 1: THINKING
+Philospher 1: HUNGRY
 Philospher 2: EATING
 Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
-6 has started eating
 3 has done thinking
+Philosopher 3 has requested to talk
 -----------------
-Philospher 1: THINKING
+Philospher 1: HUNGRY
 Philospher 2: EATING
-Philospher 3: HUNGRY
+Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
-5 has done thinking
 -----------------
-Philospher 1: THINKING
+Philospher 1: HUNGRY
 Philospher 2: EATING
-Philospher 3: HUNGRY
+Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
-1 has done thinking
+Philosopher 3 has been granted to talk
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: TALKING
+Philospher 4: EATING
+-----------------
+3 has started talking
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: My number is 3
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: My number is 3
+Philosopher 3 says: My number is 3
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: My number is 3
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+3 has done talking
+Philosopher 3 has been ended talking
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: EATING
@@ -1204,22 +515,218 @@ Philospher 3: HUNGRY
 Philospher 4: THINKING
 -----------------
 4 has started thinking
-6 has done eating
+4 has done thinking
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: EATING
 Philospher 3: HUNGRY
-Philospher 4: THINKING
+Philospher 4: HUNGRY
 -----------------
-6 has started thinking
 2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+2 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started eating
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: HUNGRY
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+3 has started eating
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+2 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started eating
+3 has done thinking
+Philosopher 3 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+Philosopher 3 has been granted to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: TALKING
+Philospher 4: EATING
+-----------------
+3 has started talking
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: My number is 3
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: My number is 3
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+3 has done talking
+Philosopher 3 has been ended talking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+2 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+2 has started thinking
+1 has done thinking
+Philosopher 1 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+Philosopher 1 has been granted to talk
+-----------------
+Philospher 1: TALKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+1 has started talking
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: My number is 1
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: My number is 1
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: My number is 1
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: My number is 1
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+1 has done talking
+Philosopher 1 has been ended talking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: EATING
+-----------------
+4 has done eating
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: THINKING
 Philospher 3: HUNGRY
 Philospher 4: THINKING
 -----------------
-2 has started thinking
+4 has started thinking
 -----------------
 Philospher 1: EATING
 Philospher 2: THINKING
@@ -1234,13 +741,171 @@ Philospher 3: EATING
 Philospher 4: THINKING
 -----------------
 3 has started eating
-6 has done thinking
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+1 has started thinking
+2 has done thinking
+Philosopher 2 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+Philosopher 2 has been granted to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: TALKING
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+2 has started talking
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+2 has done talking
+Philosopher 2 has been ended talking
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: THINKING
+-----------------
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+3 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started eating
+1 has done thinking
+Philosopher 1 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+Philosopher 1 has been granted to talk
+-----------------
+Philospher 1: TALKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+1 has started talking
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: My number is 1
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: My number is 1
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+1 has done talking
+Philosopher 1 has been ended talking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+1 has started eating
+3 has done thinking
+-----------------
+Philospher 1: EATING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
 -----------------
 Philospher 1: EATING
 Philospher 2: THINKING
 Philospher 3: EATING
 Philospher 4: THINKING
 -----------------
+3 has started eating
 2 has done thinking
 -----------------
 Philospher 1: EATING
@@ -1278,534 +943,6 @@ Philospher 3: THINKING
 Philospher 4: HUNGRY
 -----------------
 2 has started eating
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-5 has started eating
-4 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-5 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-5 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-5 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-3 has started thinking
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-2 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
-5 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-5 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-6 has started eating
-6 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-6 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-7 has started eating
-7 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-7 has started thinking
-7 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-7 has started eating
-6 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-4 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-7 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-7 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-6 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-8 has started eating
-6 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-6 has started thinking
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-2 has started eating
-5 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-7 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-8 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-8 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-1 has started eating
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-6 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-8 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
@@ -1814,1275 +951,86 @@ Philospher 4: EATING
 -----------------
 4 has started eating
 1 has done thinking
+Philosopher 1 has requested to talk
 -----------------
-Philospher 1: HUNGRY
+Philospher 1: THINKING
 Philospher 2: EATING
 Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
-3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+Philosopher 1 has been granted to talk
+-----------------
+Philospher 1: TALKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started talking
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: My number is 1
+Philosopher 1 says: My number is 1
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: My number is 1
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: My number is 1
+Philosopher 1 says: My number is 1
+1 has done talking
+Philosopher 1 has been ended talking
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: EATING
-Philospher 3: HUNGRY
+Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
 4 has done eating
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-2 has started eating
-5 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-6 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-3 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-5 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
-6 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-6 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
-6 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has started thinking
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started eating
-4 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-3 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-4 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-3 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started thinking
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-2 has started eating
-5 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-6 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-3 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-5 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-6 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-6 has started thinking
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-6 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has started thinking
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has started thinking
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-2 has started eating
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-4 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-2 has started thinking
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-5 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-5 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-5 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
 Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
 4 has started thinking
 3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has started thinking
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-3 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started thinking
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-2 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
-4 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-4 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-2 has started eating
-3 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-4 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
-1 has done thinking
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: EATING
@@ -3118,616 +1066,205 @@ Philospher 3: EATING
 Philospher 4: HUNGRY
 -----------------
 3 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
 3 has done eating
 -----------------
-Philospher 1: EATING
+Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: HUNGRY
 -----------------
 3 has started thinking
 -----------------
-Philospher 1: EATING
+Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
 4 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-1 has started eating
-2 has started thinking
 4 has done eating
 -----------------
-Philospher 1: EATING
+Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-5 has started eating
 4 has started thinking
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
-1 has done eating
+2 has done thinking
 -----------------
 Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
-1 has started thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+2 has started eating
 4 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-5 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-5 has started thinking
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
+Philosopher 4 has requested to talk
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
+Philospher 3: THINKING
+Philospher 4: THINKING
 -----------------
-2 has started eating
-5 has done thinking
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
 Philospher 3: THINKING
-Philospher 4: HUNGRY
+Philospher 4: THINKING
 -----------------
-3 has started thinking
-1 has done eating
+Philosopher 4 has been granted to talk
 -----------------
 Philospher 1: THINKING
-Philospher 2: HUNGRY
+Philospher 2: EATING
 Philospher 3: THINKING
-Philospher 4: HUNGRY
+Philospher 4: TALKING
 -----------------
-1 has started thinking
+4 has started talking
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: My number is 4
+Philosopher 4 says: My number is 4
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: My number is 4
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: My number is 4
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: My number is 4
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: My number is 4
+Philosopher 4 says: My number is 4
+Philosopher 4 says: My number is 4
+Philosopher 4 says: You know, true is false and false is true if you think of it
+4 has done talking
+Philosopher 4 has been ended talking
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
 Philospher 3: THINKING
 Philospher 4: HUNGRY
 -----------------
-2 has started eating
-3 has done thinking
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
 4 has started eating
-3 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has started thinking
+4 has done eating
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-2 has started eating
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-2 has started thinking
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
-1 has started eating
-4 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-4 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-5 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
 Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
-3 has started thinking
+4 has started thinking
 3 has done thinking
+Philosopher 3 has requested to talk
 -----------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
-5 has done eating
 -----------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
-5 has started thinking
-5 has done thinking
+Philosopher 3 has been granted to talk
 -----------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: TALKING
+Philospher 4: THINKING
+-----------------
+3 has started talking
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: My number is 3
+Philosopher 3 says: My number is 3
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: My number is 3
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 says: My number is 3
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+3 has done talking
+Philosopher 3 has been ended talking
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
 Philospher 3: HUNGRY
 Philospher 4: THINKING
 -----------------
 4 has done thinking
 -----------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
 Philospher 1: THINKING
 Philospher 2: EATING
 Philospher 3: HUNGRY
 Philospher 4: HUNGRY
 -----------------
-2 has started eating
 1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started eating
-2 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has done thinking
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: EATING
@@ -3787,20 +1324,207 @@ Philospher 4: HUNGRY
 -----------------
 3 has started eating
 2 has done thinking
+Philosopher 2 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+Philosopher 2 has been granted to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: TALKING
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+2 has started talking
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: My number is 2
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: My number is 2
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 says: My number is 2
+Philosopher 2 says: My number is 2
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 says: My number is 2
+Philosopher 2 says: My number is 2
+Philosopher 2 says: You know, true is false and false is true if you think of it
+2 has done talking
+Philosopher 2 has been ended talking
 -----------------
 Philospher 1: THINKING
 Philospher 2: HUNGRY
 Philospher 3: EATING
 Philospher 4: HUNGRY
 -----------------
+1 has done thinking
+Philosopher 1 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+Philosopher 1 has been granted to talk
+-----------------
+Philospher 1: TALKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started talking
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: My number is 1
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+1 has done talking
+Philosopher 1 has been ended talking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
+1 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started thinking
+1 has done thinking
+Philosopher 1 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+Philosopher 1 has been granted to talk
+-----------------
+Philospher 1: TALKING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started talking
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: My number is 1
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+1 has done talking
+Philosopher 1 has been ended talking
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: EATING
+Philospher 4: HUNGRY
+-----------------
+1 has started eating
 3 has done eating
+-----------------
+Philospher 1: EATING
+Philospher 2: HUNGRY
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+3 has started thinking
+1 has done eating
 -----------------
 Philospher 1: THINKING
 Philospher 2: HUNGRY
 Philospher 3: THINKING
 Philospher 4: HUNGRY
 -----------------
-3 has started thinking
+1 has started thinking
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
@@ -3823,58 +1547,93 @@ Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
 4 has started thinking
+4 has done thinking
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
 Philospher 3: THINKING
-Philospher 4: THINKING
+Philospher 4: HUNGRY
 -----------------
-5 has started eating
-5 has done eating
 -----------------
 Philospher 1: THINKING
 Philospher 2: EATING
 Philospher 3: THINKING
-Philospher 4: THINKING
+Philospher 4: EATING
 -----------------
-5 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: THINKING
------------------
-6 has started eating
+4 has started eating
 1 has done thinking
+Philosopher 1 has requested to talk
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+Philosopher 1 has been granted to talk
+-----------------
+Philospher 1: TALKING
+Philospher 2: EATING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+1 has started talking
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 says: My number is 1
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 says: My number is 1
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+1 has done talking
+Philosopher 1 has been ended talking
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: EATING
 Philospher 3: THINKING
-Philospher 4: THINKING
+Philospher 4: EATING
 -----------------
+2 has done eating
+-----------------
+Philospher 1: HUNGRY
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+2 has started thinking
 3 has done thinking
 -----------------
 Philospher 1: HUNGRY
-Philospher 2: EATING
+Philospher 2: THINKING
 Philospher 3: HUNGRY
-Philospher 4: THINKING
+Philospher 4: EATING
 -----------------
-6 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: THINKING
------------------
-6 has started thinking
-2 has done eating
+2 has done thinking
+4 has done eating
 -----------------
 Philospher 1: HUNGRY
 Philospher 2: THINKING
 Philospher 3: HUNGRY
 Philospher 4: THINKING
 -----------------
-2 has started thinking
+4 has started thinking
 -----------------
 Philospher 1: EATING
 Philospher 2: THINKING
@@ -3889,57 +1648,58 @@ Philospher 3: EATING
 Philospher 4: THINKING
 -----------------
 3 has started eating
-6 has done thinking
+4 has done thinking
 -----------------
 Philospher 1: EATING
 Philospher 2: THINKING
 Philospher 3: EATING
-Philospher 4: THINKING
+Philospher 4: HUNGRY
 -----------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-6 has started eating
 1 has done eating
 -----------------
 Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: EATING
-Philospher 4: THINKING
+Philospher 4: HUNGRY
 -----------------
 1 has started thinking
-5 has done thinking
+3 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: HUNGRY
+-----------------
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: EATING
+-----------------
+4 has started eating
+3 has started thinking
+4 has done eating
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: THINKING
+Philospher 4: THINKING
+-----------------
+4 has started thinking
+3 has done thinking
+-----------------
+Philospher 1: THINKING
+Philospher 2: THINKING
+Philospher 3: HUNGRY
+Philospher 4: THINKING
+-----------------
 -----------------
 Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: EATING
 Philospher 4: THINKING
 -----------------
-6 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-6 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-5 has started eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: THINKING
------------------
-7 has started eating
+3 has started eating
 4 has done thinking
 -----------------
 Philospher 1: THINKING
@@ -3947,215 +1707,79 @@ Philospher 2: THINKING
 Philospher 3: EATING
 Philospher 4: HUNGRY
 -----------------
-5 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-5 has started thinking
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
+1 has done thinking
 3 has done eating
 -----------------
 Philospher 1: THINKING
-Philospher 2: HUNGRY
+Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: HUNGRY
 -----------------
-3 has started thinking
 -----------------
 Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
+Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: EATING
 -----------------
 4 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-7 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-7 has started thinking
-7 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
+3 has started thinking
+3 has done thinking
 4 has done eating
 -----------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
+Philospher 1: THINKING
+Philospher 2: THINKING
 Philospher 3: THINKING
 Philospher 4: THINKING
 -----------------
 4 has started thinking
 4 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-6 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has done eating
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-2 has started thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started eating
-5 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: HUNGRY
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
------------------
-Philospher 1: EATING
-Philospher 2: THINKING
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-1 has started eating
-2 has done thinking
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: EATING
-Philospher 4: HUNGRY
------------------
-3 has done eating
------------------
-Philospher 1: EATING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-3 has started thinking
-1 has done eating
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-1 has started thinking
------------------
-Philospher 1: THINKING
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: HUNGRY
------------------
-2 has started eating
-2 has done eating
+Philosopher 4 has requested to talk
 -----------------
 Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: THINKING
-Philospher 4: HUNGRY
+Philospher 4: THINKING
 -----------------
-2 has started thinking
 -----------------
 Philospher 1: THINKING
 Philospher 2: THINKING
 Philospher 3: THINKING
-Philospher 4: EATING
+Philospher 4: THINKING
 -----------------
-4 has started eating
-2 has done thinking
------------------
-Philospher 1: THINKING
-Philospher 2: HUNGRY
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
+Philosopher 4 has been granted to talk
 -----------------
 Philospher 1: THINKING
-Philospher 2: EATING
+Philospher 2: THINKING
 Philospher 3: THINKING
-Philospher 4: EATING
+Philospher 4: TALKING
 -----------------
-2 has started eating
-1 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: THINKING
-Philospher 4: EATING
------------------
-3 has done thinking
------------------
-Philospher 1: HUNGRY
-Philospher 2: EATING
-Philospher 3: HUNGRY
-Philospher 4: EATING
------------------
+4 has started talking
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: My number is 4
+Philosopher 4 says: My number is 4
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: My number is 4
+Philosopher 4 says: My number is 4
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: My number is 4
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 says: My number is 4
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+4 has done talking
+Philosopher 4 has been ended talking
+All philosophers have left. System terminates normally.

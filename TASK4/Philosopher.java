@@ -14,7 +14,7 @@ public class Philosopher extends BaseThread
 	 * Max time an action can take (in milliseconds)
 	 */
 	public static final long TIME_TO_WASTE = 1000;
-	public static final long Max_TALK_TIME = 1;
+	public static final long Max_TALK_TIME = 2;
 	/**
 	 * The act of eating.
 	 * - Print the fact that a given phil (their TID) has started eating.
@@ -107,7 +107,8 @@ public class Philosopher extends BaseThread
 	 */
 	@Override
 	public void run() {
-		while (true) {
+		for(int i = 0; i < DiningPhilosophers.DINING_STEPS; i++)
+		{
 			try {
 				// attempt to pick up chopsticks
 				DiningPhilosophers.soMonitor.pickUp(getTID() - 1);
@@ -120,6 +121,14 @@ public class Philosopher extends BaseThread
 				// continue with thinking/talking…
 				think();
 				// …
+				if(Math.random()<0.5)
+			{
+				// Some monitor ops down here...
+				DiningPhilosophers.soMonitor.requestTalk();
+				talk();
+				DiningPhilosophers.soMonitor.endTalk();
+				// ...
+			}
 			}
 			catch (InterruptedException e) {
 				// Restore the interrupt status and exit loop to end thread

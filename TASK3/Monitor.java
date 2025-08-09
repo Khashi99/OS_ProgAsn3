@@ -1,7 +1,7 @@
 package OS_PROGASN3.TASK3;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 //Comment
 /**
@@ -176,7 +176,7 @@ public class Monitor
 	{
 		int TID = ((Philosopher)Thread.currentThread()).getTID() - 1;
 
-		if(state[TID]!=PhilosopherState.TALKING){
+		if(state[TID]==PhilosopherState.TALKING){
 		state[TID] = PhilosopherState.THINKING;
 		System.out.println("Philosopher " + (TID + 1) + " has been ended talking");
 		}

@@ -59,23 +59,35 @@ public class DiningPhilosophers
 			 * Should be settable from the command line
 			 * or the default if no arguments supplied.
 			 */
-			int iPhilosophers = DEFAULT_NUMBER_OF_PHILOSOPHERS;
 
-			// add logic here to ask for the number of philosophers from user
-			if (argv.length > 0) {
-				try { iPhilosophers = Integer.parseInt(argv[0]); }
-				catch (NumberFormatException e) {
-				System.err.println("Bad arg, using default " + DEFAULT_NUMBER_OF_PHILOSOPHERS);
+
+		int iPhilosophers = DEFAULT_NUMBER_OF_PHILOSOPHERS;
+
+		
+		Scanner scan = new Scanner(System.in);
+		String userInput = scan.nextLine().trim();
+
+		if (userInput.isEmpty()) {
+			System.out.println("No user input; default number of Philosophers used");
+		} else {
+			try {
+				int num = Integer.parseInt(userInput);
+				if (num >= 1) {
+					iPhilosophers = num;
+				} else {
+					System.out.println("% java DiningPhilosophers"+ userInput);
+					System.out.println("\"" + userInput + "\" is not a positive decimal integer");
+					System.out.println("Usage: java DiningPhilosophers [NUMBER_OF_PHILOSOPHERS]");
+					return;
 				}
-			} else {
-				// No command-line arg → interactive
-				Scanner scan = new Scanner(System.in);
-				System.out.print("Enter number of philosophers: ");
-				if (scan.hasNextInt()) {
-				iPhilosophers = scan.nextInt();
-				}
-				scan.close();
+			} catch (NumberFormatException e) {
+				System.out.println("% java DiningPhilosophers"+ userInput);
+				System.out.println("\"" + userInput + "\" is not a positive decimal integer");
+				System.out.println("Usage: java DiningPhilosophers [NUMBER_OF_PHILOSOPHERS]");
+				return;
 			}
+		}
+		scan.close();
 
 
 			// Make the monitor aware of how many philosophers there are

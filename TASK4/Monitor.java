@@ -1,7 +1,7 @@
 package OS_PROGASN3.TASK4;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 //Comment
 /**
@@ -53,7 +53,7 @@ public class Monitor
 
 	public synchronized void PrintState (){
 		System.out.println("-----------------");
-		for (int i = 0; i < 4 ; ++i){
+		for (int i = 0; i < NoOfPhilosophers ; ++i){
 			System.out.println("Philospher " + (i + 1) + ": "+ this.state[i]);
 		}
 		System.out.println("-----------------");
@@ -176,7 +176,7 @@ public class Monitor
 	{
 		int TID = ((Philosopher)Thread.currentThread()).getTID() - 1;
 
-		if(state[TID]!=PhilosopherState.TALKING){
+		if(state[TID]==PhilosopherState.TALKING){
 		state[TID] = PhilosopherState.THINKING;
 		System.out.println("Philosopher " + (TID + 1) + " has been ended talking");
 		}
